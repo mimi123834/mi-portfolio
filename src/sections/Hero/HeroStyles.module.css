@@ -70,6 +70,10 @@
   
   .description {
     max-width: 24ch;
+    text-allign:center;
+    display: flex;
+    justify-content: center
+    allign-items: center;
   }
   
   .info {
